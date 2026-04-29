@@ -1,4 +1,4 @@
-# Wine & Food Pairing Chatbot — Digitalni Sommelier
+# Chatbot za sommelier preporuke uz jelo
 
 ## O projektu
 
