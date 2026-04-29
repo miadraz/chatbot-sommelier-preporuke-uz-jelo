@@ -20,3 +20,22 @@ koji demonstrira stvarnu primjenu inteligentnih agenata izvan striktno tehničko
 Projekt omogućuje istraživanje kako se domensko znanje (pravila uparivanja hrane i vina) može 
 učinkovito integrirati s modelima umjetne inteligencije kako bi se korisnicima pružile 
 kvalitetne, razumljive i praktične preporuke.
+
+## Struktura repozitorija
+
+| Mapa | Sadržaj |
+|------|---------|
+| `data/` | TXT dokumenti knowledge base-a za RAG pipeline |
+| `src/` | Python skripte za obradu i konverziju podataka |
+| `docs/` | Projektna dokumentacija |
+
+## Izvori podataka
+
+Podaci su preuzeti s [Kaggle](https://www.kaggle.com) platforme i pretvoreni 
+iz CSV formata u tekstualne zapise prilagođene RAG pipeline-u.
+
+## Tehnologije
+
+- **LLM:** Ollama (lokalni model)
+- **Pristup:** RAG (Retrieval-Augmented Generation)
+- **Jezik:** Python
