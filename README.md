@@ -21,13 +21,6 @@ Projekt omogućuje istraživanje kako se domensko znanje (pravila uparivanja hra
 učinkovito integrirati s modelima umjetne inteligencije kako bi se korisnicima pružile 
 kvalitetne, razumljive i praktične preporuke.
 
-## Struktura repozitorija
-
-| Mapa | Sadržaj |
-|------|---------|
-| `data/` | TXT dokumenti knowledge base-a za RAG pipeline |
-| `src/` | Python skripte za obradu i konverziju podataka |
-| `docs/` | Projektna dokumentacija |
 
 ## Izvori podataka
 
